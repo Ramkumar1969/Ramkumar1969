@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramkumar T</h1>
-<h3 align="center">A passionate software Testing Engineer from Chennai</h3>
+<h3 align="center">A passionate software Tester from Chennai</h3>
 
 
 
